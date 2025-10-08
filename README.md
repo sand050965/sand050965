@@ -34,12 +34,22 @@
 <code><img height="40" src="https://skillicons.dev/icons?i=redis"></code>
 
 <code><img height="40" src="https://skillicons.dev/icons?i=git"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=linux"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=docker"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=jenkins"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=nginx"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=aws"></code>
+
+<code><img height="40" src="https://skillicons.dev/icons?i=gradle"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=maven"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=npm"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=vite"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=pinia"></code>
+
+<code><img height="40" src="https://skillicons.dev/icons?i=github"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=postman"></code>
+
+<code><img height="40" src="https://skillicons.dev/icons?i=linux"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=apple"></code>
 
 ## Connect with Me
 
@@ -54,14 +64,22 @@
 &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sand050965&repo=hand-tracking-canvas&theme=default_repocard&cache_seconds=0)](https://github.com/sand050965/hand-tracking-canvas)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sand050965&text_color=D3D3D3&bg_color=0,000000,130F40&rank_icon=github"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sand050965&theme=ambient_gradient&layout=compact&langs_count=8&card_width=320"/>
-</a>
+[//]: # (<a href="https://github.com/anuraghazra/github-readme-stats">)
 
-<br/>
+[//]: # (  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sand050965&text_color=D3D3D3&bg_color=0,000000,130F40&rank_icon=github"/>)
 
-![GitHub Snake Light](https://github.com/sand050965/sand050965/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/sand050965/sand050965/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+[//]: # (</a>)
+
+[//]: # (<a href="https://github.com/anuraghazra/convoychat">)
+
+[//]: # (  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sand050965&theme=ambient_gradient&layout=compact&langs_count=8&card_width=320"/>)
+
+[//]: # (</a>)
+
+[//]: # ()
+[//]: # (<br/>)
+
+[//]: # ()
+[//]: # (![GitHub Snake Light]&#40;https://github.com/sand050965/sand050965/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only&#41;)
+
+[//]: # (![GitHub Snake Dark]&#40;https://github.com/sand050965/sand050965/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only&#41;)
