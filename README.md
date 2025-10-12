@@ -14,8 +14,8 @@
 
 <code><img height="40" src="https://skillicons.dev/icons?i=java&theme=light"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=python"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=php"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=nodejs"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=php"></code>
 
 <code><img height="40" src="https://skillicons.dev/icons?i=js"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=html"></code>
