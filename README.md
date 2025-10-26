@@ -1,12 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Hi!+I'm+Blake+Yang+%F0%9F%91%8B;I'm+a+Backend+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+from+Taiwan+%F0%9F%87%B9%F0%9F%87%BC)](https://git.io/typing-svg)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Blake Yang
+====================================================================================================================================
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=435&lines=I'm+a+Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+from+Taiwan+%F0%9F%87%B9%F0%9F%87%BC)](https://git.io/typing-svg)
+-------------------------------------------------
 
 ## About me
 
-🎓 I’m currently a MSCS student at NEU (Seattle).
+I am a full-stack engineer with a strong foundation in backend engineering. I specialize in designing and building efficient web applications.
 
-🌱 I'm on track with learning more about DevOps, System Design, and Software Architecture.
+With experience in Java, Python, Node.js, PHP, JavaScript, databases, and cloud services, I enjoy solving complex problems and optimizing performance.
 
-✍️ In my free time, I enjoy sleeping, watching YouTube videos, and spending time with family.
+🌍  Currently based in Seattle, WA, USA.
+
+🎓 I’m currently a MSCS student at Northeastern University (Seattle).
+
+🌱 I'm on track with learning more about System Design, and Software Architecture.
+
+🤝  I'm open to collaborating on Full-stack web applications.
+
+⚡  Passionate about building scalable software solutions with a focus on clean architecture and maintainability.
 
 💬 Feel free to contact me.
 
@@ -25,6 +37,7 @@
 <code><img height="40" src="https://skillicons.dev/icons?i=flask&theme=light"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=laravel&theme=light"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=express&theme=light"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=react"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=vue"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=nuxt"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=tailwind"></code>
@@ -63,6 +76,11 @@
 &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sand050965&repo=taipei-day-trip&theme=default_repocard&cache_seconds=10)](https://github.com/sand050965/taipei-day-trip)
 &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sand050965&repo=hand-tracking-canvas&theme=default_repocard&cache_seconds=0)](https://github.com/sand050965/hand-tracking-canvas)
+
+## Languages
+<a href="https://github.com/sand050965" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sand050965&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
 
 [//]: # (<a href="https://github.com/anuraghazra/github-readme-stats">)
 
