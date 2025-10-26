@@ -5,9 +5,7 @@
 
 ## About me
 
-I am a full-stack engineer with a strong foundation in backend engineering. I specialize in designing and building efficient web applications.
-
-With experience in Java, Python, Node.js, PHP, JavaScript, databases, and cloud services, I enjoy solving complex problems and optimizing performance.
+I am a full-stack engineer with a strong foundation in backend engineering. I specialize in designing and building efficient web applications. With experience in Java, Python, Node.js, PHP, JavaScript, databases, and cloud services, I enjoy solving complex problems and optimizing performance.
 
 🌍  Currently based in Seattle, WA, USA.
 
