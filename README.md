@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Blake Yang
-====================================================================================================================================
+# Hi! I'm Blake Yang ~ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=435&lines=I'm+a+Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+from+Taiwan+%F0%9F%87%B9%F0%9F%87%BC)](https://git.io/typing-svg)
--------------------------------------------------
+====================================================================================================================================
+
 
 ## About me
 
