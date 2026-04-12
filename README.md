@@ -45,12 +45,13 @@ I am a full-stack engineer with a strong foundation in backend engineering. I sp
 
 <code><img height="40" src="https://skillicons.dev/icons?i=git"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=docker"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=kubernetes"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=jenkins"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=nginx"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=aws"></code>
 
-<code><img height="40" src="https://skillicons.dev/icons?i=gradle"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=maven"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=gradle"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=npm"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=vite"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=pinia"></code>
@@ -75,6 +76,7 @@ I am a full-stack engineer with a strong foundation in backend engineering. I sp
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sand050965&repo=hand-tracking-canvas&theme=default_repocard&cache_seconds=0)](https://github.com/sand050965/hand-tracking-canvas)
 
 ## Languages
+
 <a href="https://github.com/sand050965" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sand050965&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
