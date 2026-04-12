@@ -70,10 +70,10 @@ I am a full-stack engineer with a strong foundation in backend engineering. I sp
 
 ## Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sand050965&repo=mini-room&theme=default_repocard&cache_seconds=10)](https://github.com/sand050965/mini-room)
-&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sand050965&repo=taipei-day-trip&theme=default_repocard&cache_seconds=10)](https://github.com/sand050965/taipei-day-trip)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sand050965&repo=mini-room&theme=default_repocard&cache_seconds=1800)](https://github.com/sand050965/mini-room)
+&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sand050965&repo=taipei-day-trip&theme=default_repocard&cache_seconds=1800)](https://github.com/sand050965/taipei-day-trip)
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sand050965&repo=hand-tracking-canvas&theme=default_repocard&cache_seconds=0)](https://github.com/sand050965/hand-tracking-canvas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sand050965&repo=hand-tracking-canvas&theme=default_repocard&cache_seconds=1800)](https://github.com/sand050965/hand-tracking-canvas)
 
 ## Languages
 
