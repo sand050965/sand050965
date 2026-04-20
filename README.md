@@ -82,9 +82,13 @@ enjoy solving complex problems and optimizing performance.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sand050965&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 
+<br/>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sand050965&text_color=D3D3D3&bg_color=0,000000,130F40&rank_icon=github"/>
 </a>
+
+<br/>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sand050965&theme=ambient_gradient&layout=compact&langs_count=8&card_width=320"/>
@@ -92,7 +96,5 @@ enjoy solving complex problems and optimizing performance.
 
 <br/>
 
-[//]: # (![GitHub Snake Light]&#40;https://github.com/sand050965/sand050965/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only&#41;)
 
-[//]: # ()
 [//]: # (![GitHub Snake Dark]&#40;https://github.com/sand050965/sand050965/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only&#41;)
