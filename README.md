@@ -2,20 +2,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=435&lines=I'm+a+Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+from+Taiwan+%F0%9F%87%B9%F0%9F%87%BC)](https://git.io/typing-svg)
 
-
 ## About me
 
-I am a full-stack engineer with a strong foundation in backend engineering. I specialize in designing and building efficient web applications. With experience in Java, Python, Node.js, PHP, JavaScript, databases, and cloud services, I enjoy solving complex problems and optimizing performance.
+I am a full-stack engineer with a strong foundation in backend engineering. I specialize in designing and building
+efficient web applications. With experience in Java, Python, Node.js, PHP, JavaScript, databases, and cloud services, I
+enjoy solving complex problems and optimizing performance.
 
-🌍  Currently based in Seattle, WA, USA.
+🌍 Currently based in Seattle, WA, USA.
 
 🎓 I’m currently a MSCS student at Northeastern University (Seattle).
 
 🌱 I'm on track with learning more about System Design, and Software Architecture.
 
-🤝  I'm open to collaborating on Full-stack web applications.
+🤝 I'm open to collaborating on Full-stack web applications.
 
-⚡  Passionate about building scalable software solutions with a focus on clean architecture and maintainability.
+⚡ Passionate about building scalable software solutions with a focus on clean architecture and maintainability.
 
 💬 Feel free to contact me.
 
@@ -81,22 +82,17 @@ I am a full-stack engineer with a strong foundation in backend engineering. I sp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sand050965&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 
-[//]: # (<a href="https://github.com/anuraghazra/github-readme-stats">)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sand050965&text_color=D3D3D3&bg_color=0,000000,130F40&rank_icon=github"/>
+</a>
 
-[//]: # (  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sand050965&text_color=D3D3D3&bg_color=0,000000,130F40&rank_icon=github"/>)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sand050965&theme=ambient_gradient&layout=compact&langs_count=8&card_width=320"/>
+</a>
 
-[//]: # (</a>)
+<br/>
 
-[//]: # (<a href="https://github.com/anuraghazra/convoychat">)
-
-[//]: # (  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sand050965&theme=ambient_gradient&layout=compact&langs_count=8&card_width=320"/>)
-
-[//]: # (</a>)
-
-[//]: # ()
-[//]: # (<br/>)
-
-[//]: # ()
 [//]: # (![GitHub Snake Light]&#40;https://github.com/sand050965/sand050965/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only&#41;)
 
+[//]: # ()
 [//]: # (![GitHub Snake Dark]&#40;https://github.com/sand050965/sand050965/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only&#41;)
