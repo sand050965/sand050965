@@ -40,6 +40,7 @@ enjoy solving complex problems and optimizing performance.
 <code><img height="40" src="https://skillicons.dev/icons?i=nuxt"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=tailwind"></code>
 
+<code><img height="40" src="https://skillicons.dev/icons?i=postgresql"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=mysql"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=mongo"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=redis"></code>
