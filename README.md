@@ -78,12 +78,15 @@ enjoy solving complex problems and optimizing performance.
 
 ## Languages
 
-<a href="https://github.com/sand050965" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sand050965&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sand050965&text_color=D3D3D3&bg_color=0,000000,130F40&rank_icon=github"/>
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/sand050965" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sand050965&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 
 
