@@ -62,6 +62,7 @@ enjoy solving complex problems and optimizing performance.
 
 <code><img height="40" src="https://skillicons.dev/icons?i=linux"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=apple"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=windows"></code>
 
 ## Connect with Me
 
