@@ -64,9 +64,9 @@ I am a full-stack engineer with a strong foundation in backend engineering. I sp
 
 ## Connect with Me
 
-<span><a href="https://www.linkedin.com/in/blake-yang-0a91aa228/" target="_blank" title="blake-yang-0a91aa228" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a></span>
+<span><a href="https://www.linkedin.com/in/blake-yang-0a91aa228/" target="_blank" title="blake-yang-0a91aa228" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" height="30"/></a></span>
 &nbsp;&nbsp;
-<span><a href="mailto:sand050965@gmail.com" target="_blank" title="sand050965@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a></span>
+<span><a href="mailto:sand050965@gmail.com" target="_blank" title="sand050965@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" height="30"/></a></span>
 
 ## Projects
 
