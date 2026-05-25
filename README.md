@@ -105,4 +105,11 @@ enjoy solving complex problems and optimizing performance.
 [//]: # (</a>)
 
 
-![GitHub Snake Dark](https://github.com/sand050965/sand050965/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+## GitHub Contributions
+<div align="center">
+  <br/>
+  <img
+    alt="snake eating my contributions"
+    src="https://raw.githubusercontent.com/sand050965/sand050965/output/github-contribution-grid-snake.svg"
+  />
+</div>
