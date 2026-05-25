@@ -18,7 +18,7 @@ enjoy solving complex problems and optimizing performance.
 
 ⚡ Passionate about building scalable software solutions with a focus on clean architecture and maintainability.
 
-🌐 Check out my portfolio: https://portfolio-1d8v-79rzfs3x2-sand050965s-projects.vercel.app/
+🌐 Check out my portfolio: https://portfolio-1d8v-sand050965s-projects.vercel.app/
 
 ## Languages and Tools
 
@@ -71,7 +71,7 @@ enjoy solving complex problems and optimizing performance.
 &nbsp;&nbsp;
 <span><a href="mailto:sand050965@gmail.com" target="_blank" title="sand050965@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" height="30"/></a></span>
 &nbsp;&nbsp;
-<span><a href="https://portfolio-1d8v-79rzfs3x2-sand050965s-projects.vercel.app/" target="_blank" title="Portfolio" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="30"/></a></span>
+<span><a href="https://portfolio-1d8v-sand050965s-projects.vercel.app/" target="_blank" title="Portfolio" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="30"/></a></span>
 
 [//]: # (## Projects)
 
