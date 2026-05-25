@@ -71,25 +71,38 @@ enjoy solving complex problems and optimizing performance.
 &nbsp;&nbsp;
 <span><a href="mailto:sand050965@gmail.com" target="_blank" title="sand050965@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" height="30"/></a></span>
 
-## Projects
+[//]: # (## Projects)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sand050965&repo=mini-room&theme=default_repocard&cache_seconds=1800)](https://github.com/sand050965/mini-room)
-&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sand050965&repo=taipei-day-trip&theme=default_repocard&cache_seconds=1800)](https://github.com/sand050965/taipei-day-trip)
-&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sand050965&repo=hand-tracking-canvas&theme=default_repocard&cache_seconds=1800)](https://github.com/sand050965/hand-tracking-canvas)
+[//]: # ()
+[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=sand050965&repo=mini-room&theme=default_repocard&cache_seconds=1800&#41;]&#40;https://github.com/sand050965/mini-room&#41;)
 
-## Languages
+[//]: # (&nbsp; [![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=sand050965&repo=taipei-day-trip&theme=default_repocard&cache_seconds=1800&#41;]&#40;https://github.com/sand050965/taipei-day-trip&#41;)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sand050965&text_color=D3D3D3&bg_color=0,000000,130F40&rank_icon=github"/>
-</a>
+[//]: # (&nbsp;)
 
-<br/>
-<br/>
+[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=sand050965&repo=hand-tracking-canvas&theme=default_repocard&cache_seconds=1800&#41;]&#40;https://github.com/sand050965/hand-tracking-canvas&#41;)
 
-<a href="https://github.com/sand050965" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sand050965&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
+[//]: # ()
+[//]: # (## Languages)
+
+[//]: # ()
+[//]: # (<a href="https://github.com/anuraghazra/github-readme-stats">)
+
+[//]: # (  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sand050965&text_color=D3D3D3&bg_color=0,000000,130F40&rank_icon=github"/>)
+
+[//]: # (</a>)
+
+[//]: # ()
+[//]: # (<br/>)
+
+[//]: # (<br/>)
+
+[//]: # ()
+[//]: # (<a href="https://github.com/sand050965" align="left">)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sand050965&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />)
+
+[//]: # (</a>)
 
 
-[//]: # (![GitHub Snake Dark]&#40;https://github.com/sand050965/sand050965/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only&#41;)
+![GitHub Snake Dark](https://github.com/sand050965/sand050965/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
