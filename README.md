@@ -4,13 +4,13 @@
 
 ## About me
 
-I am a full-stack engineer with a strong foundation in backend engineering. I specialize in designing and building
+I am a software engineer with a strong foundation in backend development. I specialize in designing and building
 efficient web applications. With experience in Java, Python, Node.js, PHP, JavaScript, databases, and cloud services, I
 enjoy solving complex problems and optimizing performance.
 
-🌍 Currently based in Seattle, WA, USA.
+🌍 Currently based in Seattle, WA.
 
-🎓 I’m currently a MSCS student at Northeastern University (Seattle).
+🎓 I’m currently an MSCS student at Northeastern University (Seattle).
 
 🌱 I'm on track with learning more about System Design, and Software Architecture.
 
@@ -18,7 +18,7 @@ enjoy solving complex problems and optimizing performance.
 
 ⚡ Passionate about building scalable software solutions with a focus on clean architecture and maintainability.
 
-💬 Feel free to contact me.
+🌐 Check out my portfolio: https://portfolio-1d8v-79rzfs3x2-sand050965s-projects.vercel.app/
 
 ## Languages and Tools
 
@@ -70,6 +70,8 @@ enjoy solving complex problems and optimizing performance.
 <span><a href="https://www.linkedin.com/in/blake-yang-0a91aa228/" target="_blank" title="blake-yang-0a91aa228" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" height="30"/></a></span>
 &nbsp;&nbsp;
 <span><a href="mailto:sand050965@gmail.com" target="_blank" title="sand050965@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" height="30"/></a></span>
+&nbsp;&nbsp;
+<span><a href="https://portfolio-1d8v-79rzfs3x2-sand050965s-projects.vercel.app/" target="_blank" title="Portfolio" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="30"/></a></span>
 
 [//]: # (## Projects)
 
