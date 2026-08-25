@@ -20,11 +20,12 @@ enjoy solving complex problems and optimizing performance.
 
 🌐 Check out my portfolio: https://portfolio-1d8v-sand050965s-projects.vercel.app/
 
-## Languages and Tools
+## Skills
 
 <code><img height="40" src="https://skillicons.dev/icons?i=java&theme=light"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=python"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=nodejs"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=typescript"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=php"></code>
 
 <code><img height="40" src="https://skillicons.dev/icons?i=js"></code>
