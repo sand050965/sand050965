@@ -24,10 +24,11 @@ enjoy solving complex problems and optimizing performance.
 
 <code><img height="40" src="https://skillicons.dev/icons?i=java&theme=light"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=python"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=cpp"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=go"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=nodejs"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=typescript"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=php"></code>
-
 <code><img height="40" src="https://skillicons.dev/icons?i=js"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=html"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=css"></code>
@@ -38,6 +39,7 @@ enjoy solving complex problems and optimizing performance.
 <code><img height="40" src="https://skillicons.dev/icons?i=express&theme=light"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=react"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=vue"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=next"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=nuxt"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=tailwind"></code>
 
@@ -47,11 +49,13 @@ enjoy solving complex problems and optimizing performance.
 <code><img height="40" src="https://skillicons.dev/icons?i=redis"></code>
 
 <code><img height="40" src="https://skillicons.dev/icons?i=git"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=github"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=docker"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=kubernetes"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=jenkins"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=nginx"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=aws"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=postman"></code>
 
 <code><img height="40" src="https://skillicons.dev/icons?i=maven"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=gradle"></code>
@@ -59,12 +63,10 @@ enjoy solving complex problems and optimizing performance.
 <code><img height="40" src="https://skillicons.dev/icons?i=vite"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=pinia"></code>
 
-<code><img height="40" src="https://skillicons.dev/icons?i=github"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=postman"></code>
-
 <code><img height="40" src="https://skillicons.dev/icons?i=linux"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=apple"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=windows"></code>
+
 
 ## Connect with Me
 
